@@ -4,7 +4,7 @@
 🐍 Python Developer | Desenvolvedor Python <br>
 🔐 Cybersecurity and Lockpickng Enthusiast | Entusiasta de Cybersegurança e Lockpicking <br>
 
-
+<br>
 
 💻 Já Utilizei: <br>
 
