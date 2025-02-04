@@ -1,6 +1,6 @@
 ## Felipe Vervier - verv 👋🏻
  <br>
-📚 Studying Computer Science 1/8 | Estudando Ciência da Computação 1/8 <br>
+📚 Studying Computer Science 3/8 | Estudando Ciência da Computação 3/8 <br>
 🐍 Python Developer | Desenvolvedor Python <br>
 🔐 Cybersecurity and Lockpickng Enthusiast | Entusiasta de Cybersegurança e Lockpicking <br>
 
