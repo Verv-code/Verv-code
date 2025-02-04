@@ -1,4 +1,4 @@
-## Felipe Vervier - verv 👋🏻
+## Felipe Vervier - amnoguio 👋🏻
  <br>
 📚 Studying Computer Science 3/8 | Estudando Ciência da Computação 3/8 <br>
 🐍 Python Developer | Desenvolvedor Python <br>
